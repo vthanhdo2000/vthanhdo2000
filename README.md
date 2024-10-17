@@ -1,7 +1,6 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Văn Thành</h1>
-<h3 align="center">A passionate Nodejs developer from Ho Chi Minh city, Viet Nam</h3>
+<h3 align="center">A passionate Nodejs developer from Ho Chi Minh City, Viet Nam</h3>
 
 - 📫 How to reach me **vthanhdo2000@gmail.com**
 <img align="center" alt="Coding" width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
